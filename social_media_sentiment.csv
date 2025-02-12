@@ -1,0 +1,1001 @@
+PostID,Topic,Text,Timestamp,Sentiment
+1,Movies,"Could be better, but not the worst.",2025-02-07 23:54:06.117727,-0.25
+2,Fashion,Best experience ever!,2025-01-25 23:54:06.117746,1.0
+3,Gaming,An average experience.,2025-01-22 23:54:06.117750,-0.15
+4,Fitness,"Very disappointed, would not recommend.",2025-01-18 23:54:06.117752,-0.9750000000000001
+5,Travel,Terrible experience!,2025-01-22 23:54:06.117753,-1.0
+6,Music,An average experience.,2025-02-06 23:54:06.117755,-0.15
+7,Food,Worst purchase ever!,2025-02-08 23:54:06.117756,-1.0
+8,Travel,Absolutely love this!,2025-01-14 23:54:06.117757,0.625
+9,Movies,"Could be better, but not the worst.",2025-02-07 23:54:06.117758,-0.25
+10,Fitness,I regret buying this.,2025-02-03 23:54:06.117759,0.0
+11,Fashion,Absolutely love this!,2025-02-06 23:54:06.117761,0.625
+12,Fitness,Terrible experience!,2025-01-31 23:54:06.117762,-1.0
+13,Fashion,Best experience ever!,2025-01-13 23:54:06.117763,1.0
+14,Travel,Neutral feeling about this.,2025-02-04 23:54:06.117764,0.0
+15,Fashion,"Not bad, but not great either.",2025-02-05 23:54:06.117765,-0.02500000000000005
+16,Food,Worst purchase ever!,2025-02-11 23:54:06.117766,-1.0
+17,Gaming,"Very disappointed, would not recommend.",2025-01-24 23:54:06.117767,-0.9750000000000001
+18,Food,I regret buying this.,2025-02-02 23:54:06.117769,0.0
+19,Movies,Highly recommended!,2025-02-07 23:54:06.117770,0.2
+20,Music,Terrible experience!,2025-02-07 23:54:06.117771,-1.0
+21,Music,Highly recommended!,2025-02-08 23:54:06.117772,0.2
+22,Gaming,Neutral feeling about this.,2025-01-28 23:54:06.117773,0.0
+23,Food,Superb product and great service!,2025-02-05 23:54:06.117774,1.0
+24,Fashion,An average experience.,2025-01-31 23:54:06.117775,-0.15
+25,Gaming,Worst purchase ever!,2025-01-21 23:54:06.117776,-1.0
+26,Movies,Worst purchase ever!,2025-02-03 23:54:06.117777,-1.0
+27,Fitness,Not worth the money at all!,2025-01-29 23:54:06.117778,-0.1875
+28,Fitness,I regret buying this.,2025-01-15 23:54:06.117780,0.0
+29,Gaming,Best experience ever!,2025-01-13 23:54:06.117781,1.0
+30,Fashion,"Very disappointed, would not recommend.",2025-01-29 23:54:06.117782,-0.9750000000000001
+31,Technology,Neutral feeling about this.,2025-02-06 23:54:06.117783,0.0
+32,Gaming,Terrible experience!,2025-02-01 23:54:06.117784,-1.0
+33,Fitness,Best experience ever!,2025-01-16 23:54:06.117785,1.0
+34,Fashion,An average experience.,2025-02-07 23:54:06.117786,-0.15
+35,Travel,"Could be better, but not the worst.",2025-02-09 23:54:06.117787,-0.25
+36,Movies,Best experience ever!,2025-02-08 23:54:06.117789,1.0
+37,Technology,Worst purchase ever!,2025-01-28 23:54:06.117790,-1.0
+38,Music,Terrible experience!,2025-02-03 23:54:06.117791,-1.0
+39,Fashion,Absolutely love this!,2025-02-11 23:54:06.117792,0.625
+40,Music,"It's okay, nothing special.",2025-01-23 23:54:06.117793,0.4285714285714286
+41,Travel,Superb product and great service!,2025-01-21 23:54:06.117794,1.0
+42,Fashion,"It's okay, nothing special.",2025-01-13 23:54:06.117796,0.4285714285714286
+43,Gaming,Not worth the money at all!,2025-02-06 23:54:06.117797,-0.1875
+44,Food,"Not bad, but not great either.",2025-02-03 23:54:06.117798,-0.02500000000000005
+45,Fashion,Absolutely love this!,2025-01-26 23:54:06.117799,0.625
+46,Travel,An average experience.,2025-01-28 23:54:06.117800,-0.15
+47,Gaming,Neutral feeling about this.,2025-02-05 23:54:06.117801,0.0
+48,Gaming,I regret buying this.,2025-01-21 23:54:06.117802,0.0
+49,Fitness,An average experience.,2025-02-05 23:54:06.117803,-0.15
+50,Technology,Absolutely love this!,2025-02-08 23:54:06.117804,0.625
+51,Travel,I regret buying this.,2025-01-15 23:54:06.117805,0.0
+52,Food,Neutral feeling about this.,2025-02-06 23:54:06.117806,0.0
+53,Technology,Terrible experience!,2025-02-06 23:54:06.117807,-1.0
+54,Food,Terrible experience!,2025-02-06 23:54:06.117809,-1.0
+55,Technology,Best experience ever!,2025-02-08 23:54:06.117810,1.0
+56,Technology,I regret buying this.,2025-02-09 23:54:06.117811,0.0
+57,Fitness,Highly recommended!,2025-02-11 23:54:06.117812,0.2
+58,Travel,Superb product and great service!,2025-01-17 23:54:06.117813,1.0
+59,Technology,"Very disappointed, would not recommend.",2025-02-12 23:54:06.117814,-0.9750000000000001
+60,Technology,Terrible experience!,2025-02-08 23:54:06.117816,-1.0
+61,Fashion,Absolutely love this!,2025-02-07 23:54:06.117817,0.625
+62,Travel,"It's okay, nothing special.",2025-02-10 23:54:06.117818,0.4285714285714286
+63,Food,"It's okay, nothing special.",2025-02-06 23:54:06.117819,0.4285714285714286
+64,Technology,An average experience.,2025-02-01 23:54:06.117820,-0.15
+65,Fashion,I regret buying this.,2025-01-28 23:54:06.117821,0.0
+66,Movies,"Could be better, but not the worst.",2025-01-15 23:54:06.117823,-0.25
+67,Travel,Superb product and great service!,2025-02-12 23:54:06.117824,1.0
+68,Music,"It's okay, nothing special.",2025-02-12 23:54:06.117825,0.4285714285714286
+69,Fashion,"It's okay, nothing special.",2025-01-25 23:54:06.117826,0.4285714285714286
+70,Movies,Terrible experience!,2025-01-18 23:54:06.117828,-1.0
+71,Food,Absolutely love this!,2025-01-21 23:54:06.117829,0.625
+72,Movies,"Amazing quality, will buy again!",2025-01-20 23:54:06.117830,0.7500000000000001
+73,Music,"Amazing quality, will buy again!",2025-01-17 23:54:06.117831,0.7500000000000001
+74,Fashion,An average experience.,2025-01-29 23:54:06.117832,-0.15
+75,Gaming,"Very disappointed, would not recommend.",2025-02-11 23:54:06.117833,-0.9750000000000001
+76,Music,"Not bad, but not great either.",2025-02-08 23:54:06.117834,-0.02500000000000005
+77,Fitness,Best experience ever!,2025-02-07 23:54:06.117835,1.0
+78,Gaming,Superb product and great service!,2025-02-01 23:54:06.117837,1.0
+79,Travel,Best experience ever!,2025-01-25 23:54:06.117838,1.0
+80,Technology,Neutral feeling about this.,2025-02-12 23:54:06.117839,0.0
+81,Music,Highly recommended!,2025-02-11 23:54:06.117840,0.2
+82,Movies,"Not bad, but not great either.",2025-02-03 23:54:06.117844,-0.02500000000000005
+83,Music,Neutral feeling about this.,2025-02-07 23:54:06.117846,0.0
+84,Fitness,"Not bad, but not great either.",2025-02-02 23:54:06.117847,-0.02500000000000005
+85,Travel,Not worth the money at all!,2025-01-27 23:54:06.117848,-0.1875
+86,Music,Neutral feeling about this.,2025-02-07 23:54:06.117849,0.0
+87,Fashion,Highly recommended!,2025-01-13 23:54:06.117850,0.2
+88,Fitness,"Very disappointed, would not recommend.",2025-02-04 23:54:06.117851,-0.9750000000000001
+89,Movies,"Amazing quality, will buy again!",2025-01-18 23:54:06.117852,0.7500000000000001
+90,Technology,I regret buying this.,2025-01-25 23:54:06.117853,0.0
+91,Fitness,Superb product and great service!,2025-01-20 23:54:06.117854,1.0
+92,Food,Neutral feeling about this.,2025-01-29 23:54:06.117855,0.0
+93,Gaming,"Could be better, but not the worst.",2025-01-24 23:54:06.117856,-0.25
+94,Technology,Superb product and great service!,2025-01-13 23:54:06.117858,1.0
+95,Music,Terrible experience!,2025-01-31 23:54:06.117860,-1.0
+96,Fitness,An average experience.,2025-02-06 23:54:06.117861,-0.15
+97,Movies,"Could be better, but not the worst.",2025-01-23 23:54:06.117863,-0.25
+98,Technology,"Amazing quality, will buy again!",2025-01-29 23:54:06.117864,0.7500000000000001
+99,Technology,I regret buying this.,2025-02-10 23:54:06.117865,0.0
+100,Fashion,Superb product and great service!,2025-02-06 23:54:06.117866,1.0
+101,Technology,Not worth the money at all!,2025-01-19 23:54:06.117867,-0.1875
+102,Movies,Terrible experience!,2025-01-30 23:54:06.117868,-1.0
+103,Food,"Amazing quality, will buy again!",2025-02-03 23:54:06.117869,0.7500000000000001
+104,Music,Highly recommended!,2025-01-28 23:54:06.117871,0.2
+105,Music,Best experience ever!,2025-02-04 23:54:06.117872,1.0
+106,Fitness,"Very disappointed, would not recommend.",2025-02-01 23:54:06.117873,-0.9750000000000001
+107,Food,Terrible experience!,2025-01-19 23:54:06.117874,-1.0
+108,Music,Worst purchase ever!,2025-02-06 23:54:06.117875,-1.0
+109,Music,Absolutely love this!,2025-02-07 23:54:06.117876,0.625
+110,Technology,Superb product and great service!,2025-02-04 23:54:06.117878,1.0
+111,Fitness,Absolutely love this!,2025-02-05 23:54:06.117879,0.625
+112,Gaming,Neutral feeling about this.,2025-02-03 23:54:06.117880,0.0
+113,Technology,Best experience ever!,2025-01-20 23:54:06.117881,1.0
+114,Gaming,"Could be better, but not the worst.",2025-01-23 23:54:06.117882,-0.25
+115,Technology,An average experience.,2025-01-20 23:54:06.117884,-0.15
+116,Fitness,I regret buying this.,2025-01-28 23:54:06.117885,0.0
+117,Food,Superb product and great service!,2025-02-06 23:54:06.117886,1.0
+118,Music,"Amazing quality, will buy again!",2025-02-09 23:54:06.117887,0.7500000000000001
+119,Food,"Amazing quality, will buy again!",2025-01-23 23:54:06.117888,0.7500000000000001
+120,Technology,An average experience.,2025-01-29 23:54:06.117890,-0.15
+121,Gaming,"Amazing quality, will buy again!",2025-02-07 23:54:06.117891,0.7500000000000001
+122,Movies,Superb product and great service!,2025-02-08 23:54:06.117892,1.0
+123,Fashion,Worst purchase ever!,2025-01-28 23:54:06.117893,-1.0
+124,Technology,Terrible experience!,2025-01-13 23:54:06.117894,-1.0
+125,Technology,Not worth the money at all!,2025-02-06 23:54:06.117895,-0.1875
+126,Music,"Not bad, but not great either.",2025-02-05 23:54:06.117896,-0.02500000000000005
+127,Gaming,An average experience.,2025-01-22 23:54:06.117897,-0.15
+128,Movies,Not worth the money at all!,2025-02-08 23:54:06.117899,-0.1875
+129,Music,Worst purchase ever!,2025-02-10 23:54:06.117900,-1.0
+130,Travel,An average experience.,2025-01-29 23:54:06.117901,-0.15
+131,Movies,Not worth the money at all!,2025-01-27 23:54:06.117903,-0.1875
+132,Food,"It's okay, nothing special.",2025-01-18 23:54:06.117904,0.4285714285714286
+133,Movies,"Very disappointed, would not recommend.",2025-02-12 23:54:06.117905,-0.9750000000000001
+134,Gaming,Terrible experience!,2025-01-24 23:54:06.117906,-1.0
+135,Fashion,Best experience ever!,2025-02-08 23:54:06.117907,1.0
+136,Technology,Best experience ever!,2025-02-02 23:54:06.117908,1.0
+137,Movies,Absolutely love this!,2025-02-01 23:54:06.117909,0.625
+138,Travel,Not worth the money at all!,2025-02-02 23:54:06.117910,-0.1875
+139,Food,"Could be better, but not the worst.",2025-01-30 23:54:06.117911,-0.25
+140,Fitness,Highly recommended!,2025-01-20 23:54:06.117912,0.2
+141,Fashion,Superb product and great service!,2025-02-08 23:54:06.117913,1.0
+142,Gaming,Not worth the money at all!,2025-01-14 23:54:06.117914,-0.1875
+143,Fashion,Neutral feeling about this.,2025-01-30 23:54:06.117916,0.0
+144,Travel,An average experience.,2025-02-10 23:54:06.117917,-0.15
+145,Travel,"Not bad, but not great either.",2025-01-25 23:54:06.117918,-0.02500000000000005
+146,Fitness,Not worth the money at all!,2025-01-24 23:54:06.117919,-0.1875
+147,Technology,Not worth the money at all!,2025-01-30 23:54:06.117920,-0.1875
+148,Travel,"Could be better, but not the worst.",2025-01-26 23:54:06.117921,-0.25
+149,Travel,Not worth the money at all!,2025-02-10 23:54:06.117922,-0.1875
+150,Fitness,"Very disappointed, would not recommend.",2025-01-14 23:54:06.117923,-0.9750000000000001
+151,Movies,An average experience.,2025-01-29 23:54:06.117925,-0.15
+152,Fashion,Superb product and great service!,2025-02-10 23:54:06.117926,1.0
+153,Movies,"It's okay, nothing special.",2025-01-15 23:54:06.117927,0.4285714285714286
+154,Gaming,"It's okay, nothing special.",2025-01-20 23:54:06.117928,0.4285714285714286
+155,Fashion,An average experience.,2025-01-29 23:54:06.117929,-0.15
+156,Gaming,I regret buying this.,2025-02-11 23:54:06.117930,0.0
+157,Gaming,An average experience.,2025-01-15 23:54:06.117931,-0.15
+158,Travel,Superb product and great service!,2025-01-15 23:54:06.117932,1.0
+159,Fashion,"Could be better, but not the worst.",2025-02-05 23:54:06.117933,-0.25
+160,Music,I regret buying this.,2025-01-14 23:54:06.117934,0.0
+161,Gaming,"Very disappointed, would not recommend.",2025-02-03 23:54:06.117935,-0.9750000000000001
+162,Movies,"Amazing quality, will buy again!",2025-02-11 23:54:06.117937,0.7500000000000001
+163,Fitness,"Amazing quality, will buy again!",2025-01-13 23:54:06.117938,0.7500000000000001
+164,Fitness,Worst purchase ever!,2025-01-28 23:54:06.117939,-1.0
+165,Gaming,I regret buying this.,2025-02-04 23:54:06.117940,0.0
+166,Music,Best experience ever!,2025-01-24 23:54:06.117941,1.0
+167,Food,Superb product and great service!,2025-02-04 23:54:06.117942,1.0
+168,Food,Neutral feeling about this.,2025-02-01 23:54:06.117943,0.0
+169,Technology,Not worth the money at all!,2025-02-11 23:54:06.117944,-0.1875
+170,Technology,Neutral feeling about this.,2025-01-17 23:54:06.117945,0.0
+171,Technology,"Not bad, but not great either.",2025-01-28 23:54:06.117946,-0.02500000000000005
+172,Movies,Superb product and great service!,2025-02-12 23:54:06.117947,1.0
+173,Technology,I regret buying this.,2025-01-22 23:54:06.117948,0.0
+174,Movies,Superb product and great service!,2025-01-31 23:54:06.117950,1.0
+175,Technology,Not worth the money at all!,2025-01-14 23:54:06.117951,-0.1875
+176,Music,Not worth the money at all!,2025-01-16 23:54:06.117952,-0.1875
+177,Travel,Absolutely love this!,2025-02-07 23:54:06.117953,0.625
+178,Travel,"It's okay, nothing special.",2025-02-05 23:54:06.117955,0.4285714285714286
+179,Music,Worst purchase ever!,2025-01-22 23:54:06.117956,-1.0
+180,Technology,I regret buying this.,2025-01-19 23:54:06.117958,0.0
+181,Music,"Could be better, but not the worst.",2025-02-04 23:54:06.117959,-0.25
+182,Fashion,"Amazing quality, will buy again!",2025-01-15 23:54:06.117960,0.7500000000000001
+183,Technology,Best experience ever!,2025-01-17 23:54:06.117961,1.0
+184,Fitness,Neutral feeling about this.,2025-02-03 23:54:06.117962,0.0
+185,Movies,Highly recommended!,2025-01-17 23:54:06.117963,0.2
+186,Fitness,Terrible experience!,2025-01-29 23:54:06.117964,-1.0
+187,Movies,I regret buying this.,2025-01-21 23:54:06.117965,0.0
+188,Technology,Highly recommended!,2025-01-29 23:54:06.117966,0.2
+189,Technology,I regret buying this.,2025-01-27 23:54:06.117967,0.0
+190,Music,An average experience.,2025-01-13 23:54:06.117969,-0.15
+191,Technology,"It's okay, nothing special.",2025-02-11 23:54:06.117970,0.4285714285714286
+192,Travel,"Very disappointed, would not recommend.",2025-02-10 23:54:06.117971,-0.9750000000000001
+193,Movies,"Amazing quality, will buy again!",2025-02-05 23:54:06.117972,0.7500000000000001
+194,Gaming,An average experience.,2025-01-20 23:54:06.117973,-0.15
+195,Movies,Highly recommended!,2025-01-16 23:54:06.117974,0.2
+196,Movies,I regret buying this.,2025-02-03 23:54:06.117975,0.0
+197,Travel,Worst purchase ever!,2025-01-24 23:54:06.117976,-1.0
+198,Food,Terrible experience!,2025-01-15 23:54:06.117977,-1.0
+199,Fashion,"Very disappointed, would not recommend.",2025-01-14 23:54:06.117978,-0.9750000000000001
+200,Fashion,I regret buying this.,2025-02-05 23:54:06.117979,0.0
+201,Technology,Superb product and great service!,2025-01-15 23:54:06.117980,1.0
+202,Fitness,Superb product and great service!,2025-01-14 23:54:06.117982,1.0
+203,Food,"Very disappointed, would not recommend.",2025-02-04 23:54:06.117983,-0.9750000000000001
+204,Music,Terrible experience!,2025-02-02 23:54:06.117984,-1.0
+205,Fashion,"Could be better, but not the worst.",2025-02-03 23:54:06.117986,-0.25
+206,Gaming,"Very disappointed, would not recommend.",2025-01-25 23:54:06.117987,-0.9750000000000001
+207,Travel,Highly recommended!,2025-01-28 23:54:06.117988,0.2
+208,Gaming,Neutral feeling about this.,2025-02-11 23:54:06.117989,0.0
+209,Music,"Could be better, but not the worst.",2025-01-14 23:54:06.117990,-0.25
+210,Fashion,"It's okay, nothing special.",2025-02-07 23:54:06.117991,0.4285714285714286
+211,Food,I regret buying this.,2025-02-03 23:54:06.117992,0.0
+212,Movies,Best experience ever!,2025-01-28 23:54:06.117993,1.0
+213,Fashion,Superb product and great service!,2025-01-27 23:54:06.117994,1.0
+214,Movies,Best experience ever!,2025-01-30 23:54:06.117995,1.0
+215,Food,Neutral feeling about this.,2025-01-26 23:54:06.117996,0.0
+216,Gaming,Neutral feeling about this.,2025-02-08 23:54:06.117997,0.0
+217,Travel,"Not bad, but not great either.",2025-02-08 23:54:06.117999,-0.02500000000000005
+218,Food,"Very disappointed, would not recommend.",2025-02-05 23:54:06.118000,-0.9750000000000001
+219,Fitness,"Could be better, but not the worst.",2025-02-05 23:54:06.118001,-0.25
+220,Movies,An average experience.,2025-02-12 23:54:06.118002,-0.15
+221,Music,"Could be better, but not the worst.",2025-02-03 23:54:06.118003,-0.25
+222,Fashion,"It's okay, nothing special.",2025-02-04 23:54:06.118004,0.4285714285714286
+223,Movies,Superb product and great service!,2025-01-23 23:54:06.118005,1.0
+224,Gaming,"It's okay, nothing special.",2025-02-10 23:54:06.118006,0.4285714285714286
+225,Fashion,Superb product and great service!,2025-01-30 23:54:06.118007,1.0
+226,Music,I regret buying this.,2025-01-13 23:54:06.118008,0.0
+227,Gaming,I regret buying this.,2025-01-21 23:54:06.118009,0.0
+228,Technology,An average experience.,2025-01-28 23:54:06.118010,-0.15
+229,Gaming,"It's okay, nothing special.",2025-01-17 23:54:06.118012,0.4285714285714286
+230,Food,Not worth the money at all!,2025-01-19 23:54:06.118013,-0.1875
+231,Food,"It's okay, nothing special.",2025-01-29 23:54:06.118014,0.4285714285714286
+232,Fitness,"Could be better, but not the worst.",2025-01-14 23:54:06.118015,-0.25
+233,Movies,Not worth the money at all!,2025-01-20 23:54:06.118016,-0.1875
+234,Food,Superb product and great service!,2025-02-05 23:54:06.118018,1.0
+235,Fitness,Superb product and great service!,2025-01-30 23:54:06.118019,1.0
+236,Food,"Amazing quality, will buy again!",2025-01-17 23:54:06.118020,0.7500000000000001
+237,Gaming,"Could be better, but not the worst.",2025-02-01 23:54:06.118021,-0.25
+238,Gaming,An average experience.,2025-01-13 23:54:06.118022,-0.15
+239,Movies,"Very disappointed, would not recommend.",2025-01-22 23:54:06.118023,-0.9750000000000001
+240,Food,Worst purchase ever!,2025-02-06 23:54:06.118024,-1.0
+241,Music,Terrible experience!,2025-01-25 23:54:06.118025,-1.0
+242,Technology,"It's okay, nothing special.",2025-01-24 23:54:06.118026,0.4285714285714286
+243,Music,Highly recommended!,2025-01-23 23:54:06.118028,0.2
+244,Food,Superb product and great service!,2025-01-13 23:54:06.118029,1.0
+245,Technology,Not worth the money at all!,2025-01-26 23:54:06.118030,-0.1875
+246,Travel,"Very disappointed, would not recommend.",2025-02-02 23:54:06.118031,-0.9750000000000001
+247,Food,"It's okay, nothing special.",2025-01-14 23:54:06.118032,0.4285714285714286
+248,Music,Highly recommended!,2025-02-02 23:54:06.118033,0.2
+249,Music,"Could be better, but not the worst.",2025-01-21 23:54:06.118034,-0.25
+250,Gaming,Terrible experience!,2025-02-10 23:54:06.118035,-1.0
+251,Technology,"Very disappointed, would not recommend.",2025-01-21 23:54:06.118036,-0.9750000000000001
+252,Movies,Worst purchase ever!,2025-01-24 23:54:06.118037,-1.0
+253,Food,Highly recommended!,2025-01-20 23:54:06.118038,0.2
+254,Food,An average experience.,2025-01-21 23:54:06.118039,-0.15
+255,Movies,Not worth the money at all!,2025-02-04 23:54:06.118041,-0.1875
+256,Movies,Superb product and great service!,2025-01-15 23:54:06.118042,1.0
+257,Fitness,I regret buying this.,2025-01-24 23:54:06.118043,0.0
+258,Music,Best experience ever!,2025-01-15 23:54:06.118044,1.0
+259,Fitness,Superb product and great service!,2025-01-19 23:54:06.118045,1.0
+260,Fashion,Terrible experience!,2025-01-15 23:54:06.118046,-1.0
+261,Fashion,"Could be better, but not the worst.",2025-02-06 23:54:06.118047,-0.25
+262,Gaming,Superb product and great service!,2025-01-16 23:54:06.118048,1.0
+263,Gaming,Absolutely love this!,2025-02-07 23:54:06.118050,0.625
+264,Travel,"Could be better, but not the worst.",2025-01-24 23:54:06.118051,-0.25
+265,Fitness,Highly recommended!,2025-02-11 23:54:06.118053,0.2
+266,Food,Highly recommended!,2025-02-09 23:54:06.118054,0.2
+267,Fitness,"Could be better, but not the worst.",2025-02-05 23:54:06.118055,-0.25
+268,Food,Terrible experience!,2025-01-25 23:54:06.118056,-1.0
+269,Music,"Amazing quality, will buy again!",2025-01-18 23:54:06.118057,0.7500000000000001
+270,Music,"Amazing quality, will buy again!",2025-02-01 23:54:06.118059,0.7500000000000001
+271,Travel,"Could be better, but not the worst.",2025-01-14 23:54:06.118060,-0.25
+272,Travel,"Very disappointed, would not recommend.",2025-02-11 23:54:06.118061,-0.9750000000000001
+273,Music,Neutral feeling about this.,2025-02-08 23:54:06.118062,0.0
+274,Fashion,Worst purchase ever!,2025-01-16 23:54:06.118063,-1.0
+275,Fashion,"Amazing quality, will buy again!",2025-02-01 23:54:06.118064,0.7500000000000001
+276,Food,Neutral feeling about this.,2025-01-18 23:54:06.118065,0.0
+277,Technology,"Very disappointed, would not recommend.",2025-01-15 23:54:06.118067,-0.9750000000000001
+278,Travel,"Not bad, but not great either.",2025-01-21 23:54:06.118068,-0.02500000000000005
+279,Fitness,Superb product and great service!,2025-01-31 23:54:06.118069,1.0
+280,Music,"Amazing quality, will buy again!",2025-01-14 23:54:06.118070,0.7500000000000001
+281,Travel,"It's okay, nothing special.",2025-02-02 23:54:06.118071,0.4285714285714286
+282,Food,An average experience.,2025-01-21 23:54:06.118072,-0.15
+283,Fashion,"Amazing quality, will buy again!",2025-01-21 23:54:06.118073,0.7500000000000001
+284,Gaming,Best experience ever!,2025-02-03 23:54:06.118075,1.0
+285,Fashion,Worst purchase ever!,2025-01-28 23:54:06.118076,-1.0
+286,Technology,"It's okay, nothing special.",2025-01-18 23:54:06.118077,0.4285714285714286
+287,Technology,An average experience.,2025-01-30 23:54:06.118078,-0.15
+288,Food,Highly recommended!,2025-01-21 23:54:06.118079,0.2
+289,Fitness,Absolutely love this!,2025-01-21 23:54:06.118080,0.625
+290,Fashion,Best experience ever!,2025-02-10 23:54:06.118081,1.0
+291,Fashion,Highly recommended!,2025-01-31 23:54:06.118082,0.2
+292,Fitness,"It's okay, nothing special.",2025-01-19 23:54:06.118084,0.4285714285714286
+293,Gaming,An average experience.,2025-02-07 23:54:06.118085,-0.15
+294,Technology,"Very disappointed, would not recommend.",2025-01-22 23:54:06.118086,-0.9750000000000001
+295,Movies,Absolutely love this!,2025-01-13 23:54:06.118087,0.625
+296,Music,"Could be better, but not the worst.",2025-01-23 23:54:06.118088,-0.25
+297,Technology,Not worth the money at all!,2025-02-01 23:54:06.118089,-0.1875
+298,Fitness,"Not bad, but not great either.",2025-01-20 23:54:06.118090,-0.02500000000000005
+299,Music,"Very disappointed, would not recommend.",2025-02-10 23:54:06.118091,-0.9750000000000001
+300,Music,Superb product and great service!,2025-02-04 23:54:06.118093,1.0
+301,Music,Superb product and great service!,2025-02-07 23:54:06.118094,1.0
+302,Travel,"Could be better, but not the worst.",2025-02-08 23:54:06.118095,-0.25
+303,Travel,Terrible experience!,2025-02-08 23:54:06.118096,-1.0
+304,Music,Absolutely love this!,2025-02-12 23:54:06.118097,0.625
+305,Travel,Neutral feeling about this.,2025-02-05 23:54:06.118098,0.0
+306,Food,Neutral feeling about this.,2025-01-26 23:54:06.118099,0.0
+307,Gaming,I regret buying this.,2025-01-26 23:54:06.118100,0.0
+308,Gaming,"Not bad, but not great either.",2025-02-11 23:54:06.118101,-0.02500000000000005
+309,Food,Absolutely love this!,2025-01-14 23:54:06.118103,0.625
+310,Fitness,"Not bad, but not great either.",2025-01-24 23:54:06.118104,-0.02500000000000005
+311,Travel,Absolutely love this!,2025-01-15 23:54:06.118106,0.625
+312,Travel,"It's okay, nothing special.",2025-01-31 23:54:06.118107,0.4285714285714286
+313,Fitness,Best experience ever!,2025-02-08 23:54:06.118108,1.0
+314,Technology,I regret buying this.,2025-01-25 23:54:06.118109,0.0
+315,Movies,Best experience ever!,2025-02-10 23:54:06.118110,1.0
+316,Technology,Superb product and great service!,2025-02-08 23:54:06.118111,1.0
+317,Music,Neutral feeling about this.,2025-01-20 23:54:06.118112,0.0
+318,Music,Worst purchase ever!,2025-02-02 23:54:06.118114,-1.0
+319,Movies,Best experience ever!,2025-01-29 23:54:06.118115,1.0
+320,Music,"Very disappointed, would not recommend.",2025-02-01 23:54:06.118116,-0.9750000000000001
+321,Gaming,I regret buying this.,2025-01-25 23:54:06.118117,0.0
+322,Food,"Very disappointed, would not recommend.",2025-02-07 23:54:06.118118,-0.9750000000000001
+323,Music,"Very disappointed, would not recommend.",2025-02-05 23:54:06.118119,-0.9750000000000001
+324,Movies,Neutral feeling about this.,2025-02-01 23:54:06.118120,0.0
+325,Fitness,Absolutely love this!,2025-02-04 23:54:06.118121,0.625
+326,Movies,Absolutely love this!,2025-01-17 23:54:06.118123,0.625
+327,Music,I regret buying this.,2025-02-02 23:54:06.118124,0.0
+328,Travel,Terrible experience!,2025-01-16 23:54:06.118125,-1.0
+329,Music,"Amazing quality, will buy again!",2025-01-17 23:54:06.118126,0.7500000000000001
+330,Fitness,Terrible experience!,2025-02-08 23:54:06.118127,-1.0
+331,Food,Terrible experience!,2025-01-15 23:54:06.118128,-1.0
+332,Movies,"It's okay, nothing special.",2025-01-20 23:54:06.118129,0.4285714285714286
+333,Technology,Not worth the money at all!,2025-01-29 23:54:06.118130,-0.1875
+334,Fitness,"Amazing quality, will buy again!",2025-02-03 23:54:06.118132,0.7500000000000001
+335,Travel,Best experience ever!,2025-01-24 23:54:06.118133,1.0
+336,Travel,"It's okay, nothing special.",2025-02-05 23:54:06.118134,0.4285714285714286
+337,Music,Best experience ever!,2025-02-10 23:54:06.118135,1.0
+338,Gaming,Highly recommended!,2025-02-02 23:54:06.118136,0.2
+339,Gaming,"Amazing quality, will buy again!",2025-02-02 23:54:06.118137,0.7500000000000001
+340,Fitness,"Could be better, but not the worst.",2025-01-31 23:54:06.118138,-0.25
+341,Fashion,"Very disappointed, would not recommend.",2025-01-16 23:54:06.118142,-0.9750000000000001
+342,Fitness,Worst purchase ever!,2025-01-15 23:54:06.118143,-1.0
+343,Movies,An average experience.,2025-02-02 23:54:06.118144,-0.15
+344,Movies,"Could be better, but not the worst.",2025-02-07 23:54:06.118145,-0.25
+345,Music,Not worth the money at all!,2025-02-09 23:54:06.118146,-0.1875
+346,Technology,Superb product and great service!,2025-02-09 23:54:06.118147,1.0
+347,Movies,"Very disappointed, would not recommend.",2025-01-31 23:54:06.118149,-0.9750000000000001
+348,Music,"Very disappointed, would not recommend.",2025-01-14 23:54:06.118150,-0.9750000000000001
+349,Fashion,Neutral feeling about this.,2025-02-02 23:54:06.118151,0.0
+350,Fashion,I regret buying this.,2025-01-31 23:54:06.118152,0.0
+351,Gaming,"Very disappointed, would not recommend.",2025-02-05 23:54:06.118154,-0.9750000000000001
+352,Technology,"Amazing quality, will buy again!",2025-01-26 23:54:06.118156,0.7500000000000001
+353,Movies,"Not bad, but not great either.",2025-02-09 23:54:06.118157,-0.02500000000000005
+354,Food,Worst purchase ever!,2025-01-22 23:54:06.118159,-1.0
+355,Fashion,Highly recommended!,2025-01-16 23:54:06.118160,0.2
+356,Food,"Very disappointed, would not recommend.",2025-01-23 23:54:06.118161,-0.9750000000000001
+357,Fitness,"Not bad, but not great either.",2025-02-03 23:54:06.118162,-0.02500000000000005
+358,Music,Terrible experience!,2025-01-28 23:54:06.118163,-1.0
+359,Gaming,"Very disappointed, would not recommend.",2025-01-27 23:54:06.118164,-0.9750000000000001
+360,Fashion,"It's okay, nothing special.",2025-02-01 23:54:06.118166,0.4285714285714286
+361,Technology,Superb product and great service!,2025-02-11 23:54:06.118167,1.0
+362,Fitness,An average experience.,2025-01-28 23:54:06.118168,-0.15
+363,Technology,Highly recommended!,2025-01-22 23:54:06.118169,0.2
+364,Movies,Neutral feeling about this.,2025-02-03 23:54:06.118170,0.0
+365,Music,Worst purchase ever!,2025-02-11 23:54:06.118171,-1.0
+366,Fitness,Neutral feeling about this.,2025-01-27 23:54:06.118172,0.0
+367,Travel,I regret buying this.,2025-01-21 23:54:06.118174,0.0
+368,Fitness,Absolutely love this!,2025-01-16 23:54:06.118175,0.625
+369,Fitness,"It's okay, nothing special.",2025-02-06 23:54:06.118176,0.4285714285714286
+370,Food,"Could be better, but not the worst.",2025-02-11 23:54:06.118177,-0.25
+371,Travel,Worst purchase ever!,2025-02-08 23:54:06.118178,-1.0
+372,Gaming,Terrible experience!,2025-02-01 23:54:06.118179,-1.0
+373,Technology,Terrible experience!,2025-01-22 23:54:06.118180,-1.0
+374,Gaming,Absolutely love this!,2025-02-05 23:54:06.118182,0.625
+375,Fitness,"Not bad, but not great either.",2025-02-03 23:54:06.118183,-0.02500000000000005
+376,Fashion,I regret buying this.,2025-01-22 23:54:06.118184,0.0
+377,Fitness,Neutral feeling about this.,2025-01-21 23:54:06.118185,0.0
+378,Movies,Worst purchase ever!,2025-02-04 23:54:06.118186,-1.0
+379,Technology,Absolutely love this!,2025-01-31 23:54:06.118187,0.625
+380,Fashion,I regret buying this.,2025-01-22 23:54:06.118188,0.0
+381,Travel,"Amazing quality, will buy again!",2025-01-14 23:54:06.118189,0.7500000000000001
+382,Technology,"Could be better, but not the worst.",2025-01-21 23:54:06.118191,-0.25
+383,Fitness,Terrible experience!,2025-01-31 23:54:06.118192,-1.0
+384,Music,I regret buying this.,2025-01-29 23:54:06.118193,0.0
+385,Fitness,I regret buying this.,2025-01-28 23:54:06.118194,0.0
+386,Movies,Highly recommended!,2025-01-16 23:54:06.118195,0.2
+387,Fitness,An average experience.,2025-01-29 23:54:06.118196,-0.15
+388,Fashion,Not worth the money at all!,2025-01-19 23:54:06.118197,-0.1875
+389,Travel,Absolutely love this!,2025-02-01 23:54:06.118198,0.625
+390,Technology,I regret buying this.,2025-01-31 23:54:06.118200,0.0
+391,Music,"Not bad, but not great either.",2025-01-25 23:54:06.118201,-0.02500000000000005
+392,Fashion,"It's okay, nothing special.",2025-01-30 23:54:06.118202,0.4285714285714286
+393,Fitness,"It's okay, nothing special.",2025-02-04 23:54:06.118203,0.4285714285714286
+394,Gaming,Best experience ever!,2025-02-04 23:54:06.118204,1.0
+395,Food,Highly recommended!,2025-02-10 23:54:06.118205,0.2
+396,Travel,"Could be better, but not the worst.",2025-01-17 23:54:06.118206,-0.25
+397,Gaming,Worst purchase ever!,2025-02-12 23:54:06.118207,-1.0
+398,Technology,Neutral feeling about this.,2025-01-28 23:54:06.118208,0.0
+399,Travel,Not worth the money at all!,2025-02-02 23:54:06.118210,-0.1875
+400,Music,Absolutely love this!,2025-02-06 23:54:06.118211,0.625
+401,Travel,"It's okay, nothing special.",2025-02-10 23:54:06.118212,0.4285714285714286
+402,Travel,"Amazing quality, will buy again!",2025-01-18 23:54:06.118214,0.7500000000000001
+403,Movies,An average experience.,2025-01-29 23:54:06.118215,-0.15
+404,Music,"Very disappointed, would not recommend.",2025-02-02 23:54:06.118216,-0.9750000000000001
+405,Fitness,Not worth the money at all!,2025-01-22 23:54:06.118217,-0.1875
+406,Technology,"Very disappointed, would not recommend.",2025-01-21 23:54:06.118218,-0.9750000000000001
+407,Fitness,"It's okay, nothing special.",2025-02-01 23:54:06.118220,0.4285714285714286
+408,Travel,Absolutely love this!,2025-01-24 23:54:06.118221,0.625
+409,Music,Neutral feeling about this.,2025-01-17 23:54:06.118222,0.0
+410,Food,Superb product and great service!,2025-01-16 23:54:06.118223,1.0
+411,Fashion,Highly recommended!,2025-02-10 23:54:06.118224,0.2
+412,Food,"Amazing quality, will buy again!",2025-01-16 23:54:06.118225,0.7500000000000001
+413,Fitness,"It's okay, nothing special.",2025-01-26 23:54:06.118226,0.4285714285714286
+414,Food,"Amazing quality, will buy again!",2025-01-19 23:54:06.118227,0.7500000000000001
+415,Music,Highly recommended!,2025-02-07 23:54:06.118228,0.2
+416,Movies,"Very disappointed, would not recommend.",2025-02-03 23:54:06.118230,-0.9750000000000001
+417,Music,Highly recommended!,2025-02-07 23:54:06.118231,0.2
+418,Technology,Highly recommended!,2025-01-28 23:54:06.118232,0.2
+419,Travel,"It's okay, nothing special.",2025-02-10 23:54:06.118233,0.4285714285714286
+420,Travel,Terrible experience!,2025-01-23 23:54:06.118234,-1.0
+421,Fashion,"Amazing quality, will buy again!",2025-02-01 23:54:06.118235,0.7500000000000001
+422,Travel,Highly recommended!,2025-01-13 23:54:06.118236,0.2
+423,Travel,Best experience ever!,2025-01-22 23:54:06.118238,1.0
+424,Technology,"Amazing quality, will buy again!",2025-01-28 23:54:06.118239,0.7500000000000001
+425,Travel,"It's okay, nothing special.",2025-01-23 23:54:06.118240,0.4285714285714286
+426,Travel,I regret buying this.,2025-01-28 23:54:06.118241,0.0
+427,Fitness,Best experience ever!,2025-02-09 23:54:06.118242,1.0
+428,Music,I regret buying this.,2025-02-03 23:54:06.118243,0.0
+429,Gaming,Neutral feeling about this.,2025-01-29 23:54:06.118244,0.0
+430,Music,"Amazing quality, will buy again!",2025-01-18 23:54:06.118245,0.7500000000000001
+431,Fashion,Terrible experience!,2025-02-02 23:54:06.118246,-1.0
+432,Music,Best experience ever!,2025-02-01 23:54:06.118248,1.0
+433,Movies,"Very disappointed, would not recommend.",2025-01-28 23:54:06.118249,-0.9750000000000001
+434,Music,Superb product and great service!,2025-01-21 23:54:06.118250,1.0
+435,Food,"Could be better, but not the worst.",2025-02-11 23:54:06.118252,-0.25
+436,Movies,Worst purchase ever!,2025-01-30 23:54:06.118253,-1.0
+437,Fitness,Not worth the money at all!,2025-02-05 23:54:06.118254,-0.1875
+438,Fitness,Terrible experience!,2025-02-05 23:54:06.118255,-1.0
+439,Food,"Amazing quality, will buy again!",2025-01-28 23:54:06.118257,0.7500000000000001
+440,Music,"Very disappointed, would not recommend.",2025-01-16 23:54:06.118258,-0.9750000000000001
+441,Food,Not worth the money at all!,2025-01-17 23:54:06.118259,-0.1875
+442,Fitness,Superb product and great service!,2025-01-24 23:54:06.118260,1.0
+443,Technology,Not worth the money at all!,2025-01-13 23:54:06.118261,-0.1875
+444,Fashion,Terrible experience!,2025-02-12 23:54:06.118262,-1.0
+445,Gaming,Highly recommended!,2025-01-28 23:54:06.118263,0.2
+446,Fashion,"Could be better, but not the worst.",2025-02-08 23:54:06.118265,-0.25
+447,Music,An average experience.,2025-02-09 23:54:06.118266,-0.15
+448,Food,Worst purchase ever!,2025-01-19 23:54:06.118267,-1.0
+449,Music,"Amazing quality, will buy again!",2025-01-31 23:54:06.118268,0.7500000000000001
+450,Technology,Highly recommended!,2025-01-30 23:54:06.118269,0.2
+451,Fitness,Superb product and great service!,2025-01-23 23:54:06.118270,1.0
+452,Movies,An average experience.,2025-02-09 23:54:06.118271,-0.15
+453,Gaming,Neutral feeling about this.,2025-01-25 23:54:06.118273,0.0
+454,Gaming,Superb product and great service!,2025-01-30 23:54:06.118274,1.0
+455,Music,Worst purchase ever!,2025-01-17 23:54:06.118275,-1.0
+456,Food,Not worth the money at all!,2025-02-11 23:54:06.118276,-0.1875
+457,Gaming,Not worth the money at all!,2025-01-27 23:54:06.118277,-0.1875
+458,Food,"Could be better, but not the worst.",2025-02-11 23:54:06.118279,-0.25
+459,Food,Worst purchase ever!,2025-01-28 23:54:06.118280,-1.0
+460,Fashion,Best experience ever!,2025-01-29 23:54:06.118281,1.0
+461,Travel,"It's okay, nothing special.",2025-02-11 23:54:06.118282,0.4285714285714286
+462,Travel,"Very disappointed, would not recommend.",2025-01-17 23:54:06.118284,-0.9750000000000001
+463,Fitness,Worst purchase ever!,2025-01-16 23:54:06.118285,-1.0
+464,Technology,Neutral feeling about this.,2025-02-08 23:54:06.118286,0.0
+465,Fashion,"Amazing quality, will buy again!",2025-01-21 23:54:06.118287,0.7500000000000001
+466,Movies,"Amazing quality, will buy again!",2025-01-30 23:54:06.118288,0.7500000000000001
+467,Movies,"Could be better, but not the worst.",2025-02-02 23:54:06.118289,-0.25
+468,Travel,Not worth the money at all!,2025-01-23 23:54:06.118290,-0.1875
+469,Music,"Not bad, but not great either.",2025-01-18 23:54:06.118291,-0.02500000000000005
+470,Fitness,Neutral feeling about this.,2025-01-29 23:54:06.118293,0.0
+471,Fashion,Superb product and great service!,2025-01-24 23:54:06.118294,1.0
+472,Travel,Absolutely love this!,2025-01-25 23:54:06.118295,0.625
+473,Food,Not worth the money at all!,2025-02-09 23:54:06.118296,-0.1875
+474,Travel,I regret buying this.,2025-02-06 23:54:06.118297,0.0
+475,Fitness,Absolutely love this!,2025-02-09 23:54:06.118298,0.625
+476,Travel,Highly recommended!,2025-01-30 23:54:06.118299,0.2
+477,Movies,An average experience.,2025-02-05 23:54:06.118301,-0.15
+478,Fitness,Not worth the money at all!,2025-01-16 23:54:06.118302,-0.1875
+479,Food,Neutral feeling about this.,2025-01-26 23:54:06.118303,0.0
+480,Gaming,"It's okay, nothing special.",2025-02-02 23:54:06.118304,0.4285714285714286
+481,Travel,Superb product and great service!,2025-01-30 23:54:06.118305,1.0
+482,Music,"Could be better, but not the worst.",2025-01-28 23:54:06.118306,-0.25
+483,Fashion,Terrible experience!,2025-01-17 23:54:06.118307,-1.0
+484,Technology,"Could be better, but not the worst.",2025-01-14 23:54:06.118308,-0.25
+485,Fitness,Best experience ever!,2025-02-04 23:54:06.118309,1.0
+486,Food,"It's okay, nothing special.",2025-01-22 23:54:06.118311,0.4285714285714286
+487,Food,Worst purchase ever!,2025-01-27 23:54:06.118312,-1.0
+488,Fitness,Neutral feeling about this.,2025-01-25 23:54:06.118313,0.0
+489,Fitness,Highly recommended!,2025-01-14 23:54:06.118314,0.2
+490,Fashion,"Very disappointed, would not recommend.",2025-01-31 23:54:06.118315,-0.9750000000000001
+491,Travel,Neutral feeling about this.,2025-01-17 23:54:06.118316,0.0
+492,Movies,Highly recommended!,2025-01-20 23:54:06.118317,0.2
+493,Fitness,Worst purchase ever!,2025-02-07 23:54:06.118318,-1.0
+494,Movies,Absolutely love this!,2025-01-20 23:54:06.118320,0.625
+495,Food,Not worth the money at all!,2025-01-13 23:54:06.118321,-0.1875
+496,Travel,"Not bad, but not great either.",2025-01-13 23:54:06.118322,-0.02500000000000005
+497,Music,"Could be better, but not the worst.",2025-02-05 23:54:06.118323,-0.25
+498,Fashion,"Not bad, but not great either.",2025-01-16 23:54:06.118324,-0.02500000000000005
+499,Technology,Highly recommended!,2025-01-29 23:54:06.118325,0.2
+500,Gaming,Absolutely love this!,2025-01-18 23:54:06.118326,0.625
+501,Movies,Neutral feeling about this.,2025-01-23 23:54:06.118328,0.0
+502,Music,"Amazing quality, will buy again!",2025-01-14 23:54:06.118329,0.7500000000000001
+503,Food,"Very disappointed, would not recommend.",2025-02-01 23:54:06.118330,-0.9750000000000001
+504,Fitness,Superb product and great service!,2025-01-13 23:54:06.118331,1.0
+505,Movies,"Amazing quality, will buy again!",2025-01-22 23:54:06.118332,0.7500000000000001
+506,Fitness,"Very disappointed, would not recommend.",2025-01-30 23:54:06.118333,-0.9750000000000001
+507,Fitness,"Could be better, but not the worst.",2025-02-10 23:54:06.118334,-0.25
+508,Fashion,Terrible experience!,2025-02-03 23:54:06.118336,-1.0
+509,Food,Worst purchase ever!,2025-01-16 23:54:06.118337,-1.0
+510,Travel,Superb product and great service!,2025-02-07 23:54:06.118338,1.0
+511,Travel,Superb product and great service!,2025-01-21 23:54:06.118339,1.0
+512,Fashion,"Very disappointed, would not recommend.",2025-01-15 23:54:06.118340,-0.9750000000000001
+513,Fitness,I regret buying this.,2025-01-28 23:54:06.118341,0.0
+514,Fitness,Worst purchase ever!,2025-01-25 23:54:06.118342,-1.0
+515,Fashion,Highly recommended!,2025-01-18 23:54:06.118343,0.2
+516,Technology,I regret buying this.,2025-02-09 23:54:06.118345,0.0
+517,Travel,I regret buying this.,2025-01-19 23:54:06.118346,0.0
+518,Food,Not worth the money at all!,2025-01-14 23:54:06.118347,-0.1875
+519,Travel,Terrible experience!,2025-02-09 23:54:06.118348,-1.0
+520,Technology,Terrible experience!,2025-01-20 23:54:06.118350,-1.0
+521,Technology,Best experience ever!,2025-01-26 23:54:06.118351,1.0
+522,Technology,An average experience.,2025-01-26 23:54:06.118353,-0.15
+523,Technology,An average experience.,2025-01-18 23:54:06.118354,-0.15
+524,Music,Terrible experience!,2025-01-27 23:54:06.118355,-1.0
+525,Food,Best experience ever!,2025-02-03 23:54:06.118356,1.0
+526,Movies,"Very disappointed, would not recommend.",2025-02-07 23:54:06.118358,-0.9750000000000001
+527,Music,Highly recommended!,2025-01-20 23:54:06.118359,0.2
+528,Fitness,Best experience ever!,2025-02-05 23:54:06.118360,1.0
+529,Fitness,"It's okay, nothing special.",2025-01-19 23:54:06.118361,0.4285714285714286
+530,Travel,"Very disappointed, would not recommend.",2025-01-24 23:54:06.118362,-0.9750000000000001
+531,Travel,Worst purchase ever!,2025-02-12 23:54:06.118363,-1.0
+532,Food,Worst purchase ever!,2025-02-04 23:54:06.118364,-1.0
+533,Gaming,An average experience.,2025-01-13 23:54:06.118365,-0.15
+534,Food,An average experience.,2025-02-03 23:54:06.118366,-0.15
+535,Fashion,"Amazing quality, will buy again!",2025-02-04 23:54:06.118368,0.7500000000000001
+536,Technology,"Could be better, but not the worst.",2025-02-03 23:54:06.118369,-0.25
+537,Food,Best experience ever!,2025-02-05 23:54:06.118370,1.0
+538,Food,Worst purchase ever!,2025-01-18 23:54:06.118371,-1.0
+539,Gaming,Absolutely love this!,2025-02-12 23:54:06.118372,0.625
+540,Technology,"Could be better, but not the worst.",2025-02-01 23:54:06.118373,-0.25
+541,Travel,Absolutely love this!,2025-02-11 23:54:06.118374,0.625
+542,Travel,Worst purchase ever!,2025-01-21 23:54:06.118375,-1.0
+543,Fitness,Not worth the money at all!,2025-01-21 23:54:06.118376,-0.1875
+544,Food,"Not bad, but not great either.",2025-01-26 23:54:06.118377,-0.02500000000000005
+545,Music,An average experience.,2025-02-02 23:54:06.118379,-0.15
+546,Fitness,I regret buying this.,2025-01-30 23:54:06.118380,0.0
+547,Food,Superb product and great service!,2025-01-31 23:54:06.118381,1.0
+548,Fashion,Highly recommended!,2025-01-30 23:54:06.118382,0.2
+549,Movies,Terrible experience!,2025-01-18 23:54:06.118383,-1.0
+550,Fashion,Best experience ever!,2025-02-11 23:54:06.118384,1.0
+551,Music,Not worth the money at all!,2025-01-24 23:54:06.118385,-0.1875
+552,Movies,I regret buying this.,2025-01-19 23:54:06.118386,0.0
+553,Food,"Amazing quality, will buy again!",2025-01-14 23:54:06.118387,0.7500000000000001
+554,Fitness,An average experience.,2025-01-24 23:54:06.118389,-0.15
+555,Food,"Very disappointed, would not recommend.",2025-01-20 23:54:06.118390,-0.9750000000000001
+556,Travel,"It's okay, nothing special.",2025-01-20 23:54:06.118391,0.4285714285714286
+557,Technology,I regret buying this.,2025-02-08 23:54:06.118392,0.0
+558,Gaming,Terrible experience!,2025-01-26 23:54:06.118393,-1.0
+559,Gaming,Superb product and great service!,2025-01-24 23:54:06.118394,1.0
+560,Travel,Highly recommended!,2025-02-11 23:54:06.118395,0.2
+561,Technology,Highly recommended!,2025-02-01 23:54:06.118396,0.2
+562,Travel,"Very disappointed, would not recommend.",2025-01-29 23:54:06.118398,-0.9750000000000001
+563,Fitness,"It's okay, nothing special.",2025-02-11 23:54:06.118399,0.4285714285714286
+564,Food,I regret buying this.,2025-02-11 23:54:06.118400,0.0
+565,Food,Absolutely love this!,2025-02-07 23:54:06.118401,0.625
+566,Food,Neutral feeling about this.,2025-02-02 23:54:06.118402,0.0
+567,Music,Neutral feeling about this.,2025-01-20 23:54:06.118403,0.0
+568,Fitness,Worst purchase ever!,2025-01-16 23:54:06.118404,-1.0
+569,Fitness,"Amazing quality, will buy again!",2025-02-02 23:54:06.118405,0.7500000000000001
+570,Food,"Very disappointed, would not recommend.",2025-01-27 23:54:06.118407,-0.9750000000000001
+571,Music,"Could be better, but not the worst.",2025-02-07 23:54:06.118408,-0.25
+572,Food,"Not bad, but not great either.",2025-01-27 23:54:06.118409,-0.02500000000000005
+573,Gaming,Not worth the money at all!,2025-01-31 23:54:06.118410,-0.1875
+574,Music,Best experience ever!,2025-01-29 23:54:06.118411,1.0
+575,Fashion,"Very disappointed, would not recommend.",2025-02-12 23:54:06.118412,-0.9750000000000001
+576,Food,Terrible experience!,2025-02-09 23:54:06.118413,-1.0
+577,Technology,Superb product and great service!,2025-01-18 23:54:06.118414,1.0
+578,Movies,"Could be better, but not the worst.",2025-01-19 23:54:06.118415,-0.25
+579,Fitness,Highly recommended!,2025-01-21 23:54:06.118416,0.2
+580,Movies,Worst purchase ever!,2025-01-29 23:54:06.118418,-1.0
+581,Music,"Could be better, but not the worst.",2025-01-18 23:54:06.118419,-0.25
+582,Fitness,I regret buying this.,2025-02-06 23:54:06.118420,0.0
+583,Music,Worst purchase ever!,2025-01-22 23:54:06.118421,-1.0
+584,Technology,Absolutely love this!,2025-01-31 23:54:06.118422,0.625
+585,Food,I regret buying this.,2025-01-29 23:54:06.118423,0.0
+586,Movies,Best experience ever!,2025-01-17 23:54:06.118424,1.0
+587,Music,Absolutely love this!,2025-01-13 23:54:06.118425,0.625
+588,Fashion,"Not bad, but not great either.",2025-02-01 23:54:06.118426,-0.02500000000000005
+589,Food,Best experience ever!,2025-02-04 23:54:06.118427,1.0
+590,Fashion,Worst purchase ever!,2025-01-30 23:54:06.118429,-1.0
+591,Fitness,Neutral feeling about this.,2025-02-03 23:54:06.118430,0.0
+592,Travel,"Very disappointed, would not recommend.",2025-02-12 23:54:06.118431,-0.9750000000000001
+593,Technology,"Not bad, but not great either.",2025-02-11 23:54:06.118432,-0.02500000000000005
+594,Food,"Not bad, but not great either.",2025-01-13 23:54:06.118434,-0.02500000000000005
+595,Technology,Worst purchase ever!,2025-01-17 23:54:06.118435,-1.0
+596,Technology,"Very disappointed, would not recommend.",2025-01-26 23:54:06.118436,-0.9750000000000001
+597,Fitness,Worst purchase ever!,2025-01-23 23:54:06.118439,-1.0
+598,Movies,"It's okay, nothing special.",2025-01-22 23:54:06.118440,0.4285714285714286
+599,Technology,Terrible experience!,2025-01-29 23:54:06.118441,-1.0
+600,Technology,"Amazing quality, will buy again!",2025-02-11 23:54:06.118442,0.7500000000000001
+601,Fitness,Superb product and great service!,2025-01-28 23:54:06.118443,1.0
+602,Fitness,I regret buying this.,2025-02-11 23:54:06.118444,0.0
+603,Fitness,"Very disappointed, would not recommend.",2025-01-29 23:54:06.118445,-0.9750000000000001
+604,Food,"Amazing quality, will buy again!",2025-01-28 23:54:06.118447,0.7500000000000001
+605,Gaming,Not worth the money at all!,2025-01-29 23:54:06.118448,-0.1875
+606,Movies,"Amazing quality, will buy again!",2025-02-06 23:54:06.118449,0.7500000000000001
+607,Fitness,Terrible experience!,2025-02-08 23:54:06.118451,-1.0
+608,Movies,Highly recommended!,2025-02-10 23:54:06.118452,0.2
+609,Gaming,"Very disappointed, would not recommend.",2025-02-08 23:54:06.118453,-0.9750000000000001
+610,Movies,"Amazing quality, will buy again!",2025-01-20 23:54:06.118454,0.7500000000000001
+611,Gaming,Not worth the money at all!,2025-01-23 23:54:06.118456,-0.1875
+612,Music,Neutral feeling about this.,2025-01-16 23:54:06.118457,0.0
+613,Gaming,Worst purchase ever!,2025-01-21 23:54:06.118458,-1.0
+614,Movies,I regret buying this.,2025-01-21 23:54:06.118459,0.0
+615,Travel,An average experience.,2025-01-19 23:54:06.118460,-0.15
+616,Food,Superb product and great service!,2025-01-27 23:54:06.118461,1.0
+617,Food,Worst purchase ever!,2025-01-22 23:54:06.118462,-1.0
+618,Fashion,Neutral feeling about this.,2025-01-15 23:54:06.118464,0.0
+619,Fashion,Not worth the money at all!,2025-02-07 23:54:06.118465,-0.1875
+620,Travel,"Amazing quality, will buy again!",2025-01-23 23:54:06.118466,0.7500000000000001
+621,Technology,I regret buying this.,2025-02-05 23:54:06.118467,0.0
+622,Food,"Could be better, but not the worst.",2025-01-19 23:54:06.118468,-0.25
+623,Fashion,"Very disappointed, would not recommend.",2025-01-22 23:54:06.118469,-0.9750000000000001
+624,Technology,Absolutely love this!,2025-02-09 23:54:06.118470,0.625
+625,Food,Best experience ever!,2025-01-14 23:54:06.118471,1.0
+626,Movies,Not worth the money at all!,2025-02-08 23:54:06.118473,-0.1875
+627,Music,"Not bad, but not great either.",2025-01-13 23:54:06.118474,-0.02500000000000005
+628,Movies,An average experience.,2025-01-28 23:54:06.118475,-0.15
+629,Technology,Best experience ever!,2025-02-03 23:54:06.118476,1.0
+630,Gaming,Terrible experience!,2025-02-06 23:54:06.118477,-1.0
+631,Travel,Neutral feeling about this.,2025-01-30 23:54:06.118478,0.0
+632,Food,Best experience ever!,2025-02-08 23:54:06.118479,1.0
+633,Food,Superb product and great service!,2025-01-28 23:54:06.118480,1.0
+634,Movies,Superb product and great service!,2025-01-30 23:54:06.118482,1.0
+635,Travel,Highly recommended!,2025-01-30 23:54:06.118483,0.2
+636,Fashion,"Amazing quality, will buy again!",2025-01-22 23:54:06.118484,0.7500000000000001
+637,Food,I regret buying this.,2025-02-09 23:54:06.118485,0.0
+638,Gaming,"Very disappointed, would not recommend.",2025-01-23 23:54:06.118486,-0.9750000000000001
+639,Music,"Not bad, but not great either.",2025-02-10 23:54:06.118487,-0.02500000000000005
+640,Music,I regret buying this.,2025-01-15 23:54:06.118488,0.0
+641,Movies,"Not bad, but not great either.",2025-01-31 23:54:06.118489,-0.02500000000000005
+642,Movies,Superb product and great service!,2025-02-06 23:54:06.118491,1.0
+643,Gaming,Not worth the money at all!,2025-01-19 23:54:06.118492,-0.1875
+644,Food,Terrible experience!,2025-01-14 23:54:06.118493,-1.0
+645,Fashion,Absolutely love this!,2025-01-23 23:54:06.118495,0.625
+646,Gaming,I regret buying this.,2025-02-10 23:54:06.118498,0.0
+647,Fitness,An average experience.,2025-01-16 23:54:06.118499,-0.15
+648,Fashion,Worst purchase ever!,2025-01-17 23:54:06.118501,-1.0
+649,Gaming,"Very disappointed, would not recommend.",2025-02-10 23:54:06.118502,-0.9750000000000001
+650,Food,I regret buying this.,2025-01-31 23:54:06.118503,0.0
+651,Movies,"Could be better, but not the worst.",2025-02-11 23:54:06.118504,-0.25
+652,Travel,An average experience.,2025-02-11 23:54:06.118505,-0.15
+653,Gaming,An average experience.,2025-01-15 23:54:06.118507,-0.15
+654,Travel,"Not bad, but not great either.",2025-01-27 23:54:06.118508,-0.02500000000000005
+655,Movies,Best experience ever!,2025-02-12 23:54:06.118509,1.0
+656,Technology,Highly recommended!,2025-02-04 23:54:06.118510,0.2
+657,Fashion,Highly recommended!,2025-01-16 23:54:06.118511,0.2
+658,Travel,Terrible experience!,2025-02-11 23:54:06.118512,-1.0
+659,Fashion,"Amazing quality, will buy again!",2025-02-12 23:54:06.118513,0.7500000000000001
+660,Music,I regret buying this.,2025-01-17 23:54:06.118514,0.0
+661,Movies,"It's okay, nothing special.",2025-01-27 23:54:06.118515,0.4285714285714286
+662,Food,Neutral feeling about this.,2025-01-13 23:54:06.118517,0.0
+663,Fashion,"Amazing quality, will buy again!",2025-01-30 23:54:06.118518,0.7500000000000001
+664,Travel,"Very disappointed, would not recommend.",2025-01-19 23:54:06.118519,-0.9750000000000001
+665,Fitness,Highly recommended!,2025-01-27 23:54:06.118520,0.2
+666,Music,"Very disappointed, would not recommend.",2025-02-06 23:54:06.118521,-0.9750000000000001
+667,Gaming,Worst purchase ever!,2025-01-20 23:54:06.118522,-1.0
+668,Music,An average experience.,2025-01-28 23:54:06.118523,-0.15
+669,Travel,Terrible experience!,2025-01-25 23:54:06.118524,-1.0
+670,Music,"Amazing quality, will buy again!",2025-02-09 23:54:06.118526,0.7500000000000001
+671,Movies,Not worth the money at all!,2025-02-06 23:54:06.118527,-0.1875
+672,Music,An average experience.,2025-01-18 23:54:06.118528,-0.15
+673,Fashion,Best experience ever!,2025-02-12 23:54:06.118529,1.0
+674,Fitness,An average experience.,2025-01-14 23:54:06.118531,-0.15
+675,Technology,"Amazing quality, will buy again!",2025-02-12 23:54:06.118532,0.7500000000000001
+676,Food,"Very disappointed, would not recommend.",2025-01-14 23:54:06.118533,-0.9750000000000001
+677,Gaming,Neutral feeling about this.,2025-01-29 23:54:06.118534,0.0
+678,Fitness,An average experience.,2025-01-28 23:54:06.118535,-0.15
+679,Movies,Highly recommended!,2025-02-11 23:54:06.118536,0.2
+680,Fitness,Terrible experience!,2025-02-09 23:54:06.118538,-1.0
+681,Gaming,"Not bad, but not great either.",2025-02-01 23:54:06.118539,-0.02500000000000005
+682,Fitness,Highly recommended!,2025-01-24 23:54:06.118540,0.2
+683,Fitness,"It's okay, nothing special.",2025-01-14 23:54:06.118541,0.4285714285714286
+684,Travel,Absolutely love this!,2025-01-24 23:54:06.118542,0.625
+685,Food,"Amazing quality, will buy again!",2025-01-24 23:54:06.118543,0.7500000000000001
+686,Fitness,I regret buying this.,2025-01-18 23:54:06.118544,0.0
+687,Travel,"Not bad, but not great either.",2025-01-23 23:54:06.118545,-0.02500000000000005
+688,Travel,I regret buying this.,2025-01-30 23:54:06.118547,0.0
+689,Movies,"Could be better, but not the worst.",2025-01-15 23:54:06.118548,-0.25
+690,Food,Not worth the money at all!,2025-01-15 23:54:06.118549,-0.1875
+691,Fitness,Terrible experience!,2025-01-27 23:54:06.118551,-1.0
+692,Technology,Best experience ever!,2025-01-29 23:54:06.118552,1.0
+693,Fitness,"Amazing quality, will buy again!",2025-01-23 23:54:06.118554,0.7500000000000001
+694,Gaming,Terrible experience!,2025-01-16 23:54:06.118555,-1.0
+695,Food,"Not bad, but not great either.",2025-02-06 23:54:06.118556,-0.02500000000000005
+696,Gaming,Not worth the money at all!,2025-01-23 23:54:06.118557,-0.1875
+697,Music,Worst purchase ever!,2025-01-30 23:54:06.118558,-1.0
+698,Music,An average experience.,2025-01-29 23:54:06.118559,-0.15
+699,Travel,Neutral feeling about this.,2025-01-20 23:54:06.118560,0.0
+700,Food,"Very disappointed, would not recommend.",2025-01-13 23:54:06.118562,-0.9750000000000001
+701,Fitness,Superb product and great service!,2025-02-08 23:54:06.118563,1.0
+702,Gaming,"Could be better, but not the worst.",2025-02-02 23:54:06.118564,-0.25
+703,Movies,Neutral feeling about this.,2025-02-01 23:54:06.118565,0.0
+704,Gaming,"It's okay, nothing special.",2025-02-09 23:54:06.118566,0.4285714285714286
+705,Fashion,"Very disappointed, would not recommend.",2025-01-17 23:54:06.118567,-0.9750000000000001
+706,Fashion,I regret buying this.,2025-01-18 23:54:06.118568,0.0
+707,Food,"Could be better, but not the worst.",2025-01-13 23:54:06.118570,-0.25
+708,Travel,Terrible experience!,2025-01-27 23:54:06.118571,-1.0
+709,Food,Absolutely love this!,2025-01-22 23:54:06.118572,0.625
+710,Technology,"Could be better, but not the worst.",2025-01-15 23:54:06.118573,-0.25
+711,Gaming,Absolutely love this!,2025-02-09 23:54:06.118574,0.625
+712,Technology,Worst purchase ever!,2025-02-03 23:54:06.118575,-1.0
+713,Travel,Superb product and great service!,2025-01-30 23:54:06.118576,1.0
+714,Fitness,Worst purchase ever!,2025-01-13 23:54:06.118578,-1.0
+715,Technology,"It's okay, nothing special.",2025-01-13 23:54:06.118579,0.4285714285714286
+716,Technology,Highly recommended!,2025-01-24 23:54:06.118580,0.2
+717,Gaming,"It's okay, nothing special.",2025-01-28 23:54:06.118581,0.4285714285714286
+718,Technology,I regret buying this.,2025-01-27 23:54:06.118582,0.0
+719,Fitness,"It's okay, nothing special.",2025-02-05 23:54:06.118583,0.4285714285714286
+720,Food,"Could be better, but not the worst.",2025-02-01 23:54:06.118584,-0.25
+721,Fitness,Not worth the money at all!,2025-01-23 23:54:06.118586,-0.1875
+722,Fitness,"It's okay, nothing special.",2025-01-30 23:54:06.118587,0.4285714285714286
+723,Gaming,"Not bad, but not great either.",2025-01-23 23:54:06.118588,-0.02500000000000005
+724,Movies,"Not bad, but not great either.",2025-02-09 23:54:06.118589,-0.02500000000000005
+725,Technology,Absolutely love this!,2025-01-20 23:54:06.118590,0.625
+726,Fashion,Neutral feeling about this.,2025-01-22 23:54:06.118591,0.0
+727,Technology,"Amazing quality, will buy again!",2025-02-01 23:54:06.118592,0.7500000000000001
+728,Food,"Very disappointed, would not recommend.",2025-02-11 23:54:06.118594,-0.9750000000000001
+729,Travel,"Amazing quality, will buy again!",2025-01-17 23:54:06.118595,0.7500000000000001
+730,Movies,"Very disappointed, would not recommend.",2025-01-28 23:54:06.118596,-0.9750000000000001
+731,Gaming,Worst purchase ever!,2025-01-29 23:54:06.118597,-1.0
+732,Technology,Not worth the money at all!,2025-01-30 23:54:06.118598,-0.1875
+733,Music,Absolutely love this!,2025-02-03 23:54:06.118599,0.625
+734,Fashion,Neutral feeling about this.,2025-02-01 23:54:06.118600,0.0
+735,Gaming,"Amazing quality, will buy again!",2025-01-13 23:54:06.118601,0.7500000000000001
+736,Music,An average experience.,2025-02-01 23:54:06.118603,-0.15
+737,Gaming,"It's okay, nothing special.",2025-01-20 23:54:06.118604,0.4285714285714286
+738,Music,An average experience.,2025-01-17 23:54:06.118605,-0.15
+739,Music,Superb product and great service!,2025-02-07 23:54:06.118606,1.0
+740,Music,Best experience ever!,2025-01-16 23:54:06.118607,1.0
+741,Movies,An average experience.,2025-01-22 23:54:06.118608,-0.15
+742,Travel,"Not bad, but not great either.",2025-02-08 23:54:06.118609,-0.02500000000000005
+743,Food,Superb product and great service!,2025-01-29 23:54:06.118611,1.0
+744,Food,"Very disappointed, would not recommend.",2025-01-30 23:54:06.118612,-0.9750000000000001
+745,Travel,Neutral feeling about this.,2025-01-30 23:54:06.118613,0.0
+746,Gaming,Highly recommended!,2025-02-03 23:54:06.118614,0.2
+747,Technology,"Not bad, but not great either.",2025-02-08 23:54:06.118615,-0.02500000000000005
+748,Movies,I regret buying this.,2025-01-25 23:54:06.118616,0.0
+749,Technology,"It's okay, nothing special.",2025-01-24 23:54:06.118618,0.4285714285714286
+750,Fitness,"Not bad, but not great either.",2025-01-16 23:54:06.118619,-0.02500000000000005
+751,Technology,Terrible experience!,2025-01-24 23:54:06.118620,-1.0
+752,Technology,Absolutely love this!,2025-02-08 23:54:06.118621,0.625
+753,Fashion,I regret buying this.,2025-01-22 23:54:06.118622,0.0
+754,Gaming,Neutral feeling about this.,2025-01-20 23:54:06.118623,0.0
+755,Travel,Terrible experience!,2025-01-14 23:54:06.118624,-1.0
+756,Gaming,Terrible experience!,2025-02-06 23:54:06.118625,-1.0
+757,Food,Neutral feeling about this.,2025-02-04 23:54:06.118627,0.0
+758,Food,"It's okay, nothing special.",2025-01-27 23:54:06.118628,0.4285714285714286
+759,Travel,"Amazing quality, will buy again!",2025-01-21 23:54:06.118629,0.7500000000000001
+760,Fashion,Absolutely love this!,2025-02-12 23:54:06.118630,0.625
+761,Technology,Highly recommended!,2025-01-19 23:54:06.118631,0.2
+762,Movies,Best experience ever!,2025-02-04 23:54:06.118633,1.0
+763,Gaming,"Amazing quality, will buy again!",2025-01-28 23:54:06.118634,0.7500000000000001
+764,Music,Highly recommended!,2025-01-25 23:54:06.118635,0.2
+765,Fitness,Terrible experience!,2025-01-15 23:54:06.118637,-1.0
+766,Food,Terrible experience!,2025-02-05 23:54:06.118638,-1.0
+767,Movies,"Could be better, but not the worst.",2025-01-21 23:54:06.118639,-0.25
+768,Food,Absolutely love this!,2025-02-01 23:54:06.118640,0.625
+769,Music,Highly recommended!,2025-01-26 23:54:06.118641,0.2
+770,Technology,"Amazing quality, will buy again!",2025-01-28 23:54:06.118642,0.7500000000000001
+771,Fashion,Absolutely love this!,2025-02-02 23:54:06.118643,0.625
+772,Technology,I regret buying this.,2025-02-07 23:54:06.118645,0.0
+773,Music,Absolutely love this!,2025-01-25 23:54:06.118646,0.625
+774,Fashion,"Amazing quality, will buy again!",2025-02-02 23:54:06.118647,0.7500000000000001
+775,Technology,An average experience.,2025-01-14 23:54:06.118649,-0.15
+776,Gaming,Worst purchase ever!,2025-01-17 23:54:06.118650,-1.0
+777,Movies,Absolutely love this!,2025-02-11 23:54:06.118651,0.625
+778,Music,Worst purchase ever!,2025-02-03 23:54:06.118652,-1.0
+779,Movies,Superb product and great service!,2025-02-06 23:54:06.118653,1.0
+780,Fitness,"Could be better, but not the worst.",2025-02-05 23:54:06.118654,-0.25
+781,Fashion,Superb product and great service!,2025-01-18 23:54:06.118655,1.0
+782,Technology,Worst purchase ever!,2025-01-19 23:54:06.118656,-1.0
+783,Fashion,"It's okay, nothing special.",2025-01-22 23:54:06.118658,0.4285714285714286
+784,Movies,Worst purchase ever!,2025-01-23 23:54:06.118659,-1.0
+785,Movies,Not worth the money at all!,2025-01-27 23:54:06.118660,-0.1875
+786,Food,Best experience ever!,2025-01-17 23:54:06.118661,1.0
+787,Movies,"Could be better, but not the worst.",2025-01-31 23:54:06.118662,-0.25
+788,Travel,Highly recommended!,2025-01-14 23:54:06.118663,0.2
+789,Music,Worst purchase ever!,2025-01-15 23:54:06.118664,-1.0
+790,Movies,"Could be better, but not the worst.",2025-01-31 23:54:06.118665,-0.25
+791,Food,Best experience ever!,2025-01-27 23:54:06.118667,1.0
+792,Technology,"Very disappointed, would not recommend.",2025-01-26 23:54:06.118668,-0.9750000000000001
+793,Fashion,"Amazing quality, will buy again!",2025-02-05 23:54:06.118669,0.7500000000000001
+794,Gaming,"Amazing quality, will buy again!",2025-01-16 23:54:06.118670,0.7500000000000001
+795,Gaming,Absolutely love this!,2025-02-01 23:54:06.118671,0.625
+796,Food,Best experience ever!,2025-02-08 23:54:06.118672,1.0
+797,Travel,"Amazing quality, will buy again!",2025-01-23 23:54:06.118673,0.7500000000000001
+798,Travel,I regret buying this.,2025-01-16 23:54:06.118675,0.0
+799,Food,An average experience.,2025-01-25 23:54:06.118676,-0.15
+800,Technology,Neutral feeling about this.,2025-01-26 23:54:06.118677,0.0
+801,Fashion,"It's okay, nothing special.",2025-02-12 23:54:06.118678,0.4285714285714286
+802,Fitness,Neutral feeling about this.,2025-02-04 23:54:06.118679,0.0
+803,Fitness,Terrible experience!,2025-01-18 23:54:06.118680,-1.0
+804,Technology,Not worth the money at all!,2025-01-24 23:54:06.118681,-0.1875
+805,Gaming,"Very disappointed, would not recommend.",2025-02-01 23:54:06.118682,-0.9750000000000001
+806,Food,Absolutely love this!,2025-01-19 23:54:06.118684,0.625
+807,Gaming,Worst purchase ever!,2025-01-20 23:54:06.118685,-1.0
+808,Fitness,Best experience ever!,2025-01-14 23:54:06.118686,1.0
+809,Fitness,Not worth the money at all!,2025-01-30 23:54:06.118687,-0.1875
+810,Fashion,Not worth the money at all!,2025-01-20 23:54:06.118688,-0.1875
+811,Fitness,"It's okay, nothing special.",2025-02-08 23:54:06.118689,0.4285714285714286
+812,Music,Worst purchase ever!,2025-01-22 23:54:06.118690,-1.0
+813,Technology,Superb product and great service!,2025-02-06 23:54:06.118692,1.0
+814,Music,Highly recommended!,2025-01-30 23:54:06.118693,0.2
+815,Movies,Terrible experience!,2025-02-10 23:54:06.118694,-1.0
+816,Travel,Highly recommended!,2025-01-19 23:54:06.118695,0.2
+817,Travel,Worst purchase ever!,2025-02-05 23:54:06.118696,-1.0
+818,Fashion,"Not bad, but not great either.",2025-02-05 23:54:06.118697,-0.02500000000000005
+819,Movies,I regret buying this.,2025-01-20 23:54:06.118698,0.0
+820,Food,Worst purchase ever!,2025-02-07 23:54:06.118699,-1.0
+821,Travel,Terrible experience!,2025-01-30 23:54:06.118700,-1.0
+822,Fitness,An average experience.,2025-01-16 23:54:06.118702,-0.15
+823,Fashion,Highly recommended!,2025-02-11 23:54:06.118703,0.2
+824,Music,I regret buying this.,2025-02-11 23:54:06.118704,0.0
+825,Gaming,"Could be better, but not the worst.",2025-02-06 23:54:06.118705,-0.25
+826,Movies,"Amazing quality, will buy again!",2025-02-11 23:54:06.118706,0.7500000000000001
+827,Food,Neutral feeling about this.,2025-02-03 23:54:06.118707,0.0
+828,Gaming,Absolutely love this!,2025-01-16 23:54:06.118708,0.625
+829,Gaming,Best experience ever!,2025-02-10 23:54:06.118710,1.0
+830,Music,"It's okay, nothing special.",2025-02-08 23:54:06.118711,0.4285714285714286
+831,Music,Neutral feeling about this.,2025-01-14 23:54:06.118712,0.0
+832,Gaming,"Could be better, but not the worst.",2025-02-02 23:54:06.118713,-0.25
+833,Gaming,I regret buying this.,2025-02-02 23:54:06.118714,0.0
+834,Movies,"It's okay, nothing special.",2025-02-12 23:54:06.118715,0.4285714285714286
+835,Fitness,Highly recommended!,2025-01-18 23:54:06.118716,0.2
+836,Technology,Highly recommended!,2025-01-21 23:54:06.118717,0.2
+837,Technology,"Could be better, but not the worst.",2025-01-17 23:54:06.118719,-0.25
+838,Fashion,"Could be better, but not the worst.",2025-02-03 23:54:06.118720,-0.25
+839,Fitness,"Could be better, but not the worst.",2025-01-16 23:54:06.118721,-0.25
+840,Fashion,Best experience ever!,2025-01-16 23:54:06.118722,1.0
+841,Movies,"It's okay, nothing special.",2025-01-27 23:54:06.118723,0.4285714285714286
+842,Travel,"Very disappointed, would not recommend.",2025-02-03 23:54:06.118724,-0.9750000000000001
+843,Music,An average experience.,2025-02-09 23:54:06.118725,-0.15
+844,Technology,Neutral feeling about this.,2025-02-06 23:54:06.118726,0.0
+845,Technology,"Could be better, but not the worst.",2025-02-10 23:54:06.118728,-0.25
+846,Travel,I regret buying this.,2025-01-19 23:54:06.118729,0.0
+847,Gaming,Not worth the money at all!,2025-01-15 23:54:06.118730,-0.1875
+848,Food,"Amazing quality, will buy again!",2025-02-07 23:54:06.118731,0.7500000000000001
+849,Music,"It's okay, nothing special.",2025-02-02 23:54:06.118732,0.4285714285714286
+850,Gaming,Best experience ever!,2025-01-26 23:54:06.118735,1.0
+851,Music,"It's okay, nothing special.",2025-02-05 23:54:06.118736,0.4285714285714286
+852,Movies,Highly recommended!,2025-02-08 23:54:06.118737,0.2
+853,Fashion,Worst purchase ever!,2025-01-26 23:54:06.118738,-1.0
+854,Movies,"Amazing quality, will buy again!",2025-02-11 23:54:06.118739,0.7500000000000001
+855,Fashion,I regret buying this.,2025-01-18 23:54:06.118740,0.0
+856,Technology,Neutral feeling about this.,2025-02-02 23:54:06.118741,0.0
+857,Gaming,Absolutely love this!,2025-01-20 23:54:06.118742,0.625
+858,Music,Neutral feeling about this.,2025-02-01 23:54:06.118744,0.0
+859,Fashion,Neutral feeling about this.,2025-01-26 23:54:06.118745,0.0
+860,Movies,"Could be better, but not the worst.",2025-02-02 23:54:06.118747,-0.25
+861,Movies,Highly recommended!,2025-02-05 23:54:06.118748,0.2
+862,Technology,An average experience.,2025-01-23 23:54:06.118750,-0.15
+863,Technology,"Could be better, but not the worst.",2025-02-02 23:54:06.118751,-0.25
+864,Gaming,"It's okay, nothing special.",2025-01-31 23:54:06.118752,0.4285714285714286
+865,Technology,An average experience.,2025-02-02 23:54:06.118753,-0.15
+866,Travel,"It's okay, nothing special.",2025-01-27 23:54:06.118754,0.4285714285714286
+867,Travel,Best experience ever!,2025-01-29 23:54:06.118755,1.0
+868,Fitness,An average experience.,2025-02-08 23:54:06.118757,-0.15
+869,Movies,Absolutely love this!,2025-02-06 23:54:06.118758,0.625
+870,Gaming,Absolutely love this!,2025-02-04 23:54:06.118759,0.625
+871,Technology,"Very disappointed, would not recommend.",2025-02-01 23:54:06.118760,-0.9750000000000001
+872,Technology,I regret buying this.,2025-02-05 23:54:06.118761,0.0
+873,Movies,"Could be better, but not the worst.",2025-01-13 23:54:06.118762,-0.25
+874,Fashion,Superb product and great service!,2025-02-06 23:54:06.118763,1.0
+875,Fitness,Not worth the money at all!,2025-01-13 23:54:06.118764,-0.1875
+876,Music,Terrible experience!,2025-02-02 23:54:06.118765,-1.0
+877,Fashion,Neutral feeling about this.,2025-01-26 23:54:06.118767,0.0
+878,Food,"Very disappointed, would not recommend.",2025-01-18 23:54:06.118768,-0.9750000000000001
+879,Technology,Neutral feeling about this.,2025-01-30 23:54:06.118769,0.0
+880,Movies,"Not bad, but not great either.",2025-01-24 23:54:06.118770,-0.02500000000000005
+881,Technology,I regret buying this.,2025-02-10 23:54:06.118771,0.0
+882,Fitness,"Amazing quality, will buy again!",2025-02-04 23:54:06.118772,0.7500000000000001
+883,Food,"It's okay, nothing special.",2025-01-28 23:54:06.118773,0.4285714285714286
+884,Fitness,Absolutely love this!,2025-02-05 23:54:06.118774,0.625
+885,Fitness,Not worth the money at all!,2025-01-28 23:54:06.118776,-0.1875
+886,Technology,Terrible experience!,2025-02-03 23:54:06.118777,-1.0
+887,Fitness,"It's okay, nothing special.",2025-02-02 23:54:06.118778,0.4285714285714286
+888,Fashion,Highly recommended!,2025-02-05 23:54:06.118779,0.2
+889,Music,"Could be better, but not the worst.",2025-02-07 23:54:06.118780,-0.25
+890,Gaming,"Could be better, but not the worst.",2025-01-31 23:54:06.118781,-0.25
+891,Food,Superb product and great service!,2025-01-15 23:54:06.118782,1.0
+892,Fashion,"Not bad, but not great either.",2025-02-10 23:54:06.118783,-0.02500000000000005
+893,Music,An average experience.,2025-01-22 23:54:06.118784,-0.15
+894,Movies,Worst purchase ever!,2025-01-16 23:54:06.118786,-1.0
+895,Food,"It's okay, nothing special.",2025-02-11 23:54:06.118787,0.4285714285714286
+896,Music,"Not bad, but not great either.",2025-01-21 23:54:06.118788,-0.02500000000000005
+897,Music,Neutral feeling about this.,2025-02-08 23:54:06.118789,0.0
+898,Fashion,Terrible experience!,2025-01-19 23:54:06.118790,-1.0
+899,Food,"Could be better, but not the worst.",2025-01-30 23:54:06.118791,-0.25
+900,Food,Superb product and great service!,2025-02-09 23:54:06.118792,1.0
+901,Fitness,Absolutely love this!,2025-02-07 23:54:06.118794,0.625
+902,Fashion,Worst purchase ever!,2025-01-20 23:54:06.118795,-1.0
+903,Gaming,"Could be better, but not the worst.",2025-02-10 23:54:06.118796,-0.25
+904,Movies,"Could be better, but not the worst.",2025-01-21 23:54:06.118797,-0.25
+905,Gaming,"Could be better, but not the worst.",2025-01-28 23:54:06.118798,-0.25
+906,Fashion,Terrible experience!,2025-02-02 23:54:06.118799,-1.0
+907,Technology,Neutral feeling about this.,2025-02-01 23:54:06.118800,0.0
+908,Travel,I regret buying this.,2025-01-23 23:54:06.118801,0.0
+909,Movies,"It's okay, nothing special.",2025-01-15 23:54:06.118803,0.4285714285714286
+910,Food,Absolutely love this!,2025-01-27 23:54:06.118804,0.625
+911,Food,"Could be better, but not the worst.",2025-02-12 23:54:06.118805,-0.25
+912,Music,Not worth the money at all!,2025-01-25 23:54:06.118806,-0.1875
+913,Technology,Highly recommended!,2025-02-03 23:54:06.118807,0.2
+914,Fashion,Absolutely love this!,2025-02-02 23:54:06.118808,0.625
+915,Technology,Highly recommended!,2025-01-22 23:54:06.118809,0.2
+916,Food,Superb product and great service!,2025-02-05 23:54:06.118810,1.0
+917,Movies,Best experience ever!,2025-01-14 23:54:06.118812,1.0
+918,Movies,I regret buying this.,2025-01-27 23:54:06.118813,0.0
+919,Music,"It's okay, nothing special.",2025-02-07 23:54:06.118814,0.4285714285714286
+920,Food,Terrible experience!,2025-02-08 23:54:06.118815,-1.0
+921,Gaming,"Could be better, but not the worst.",2025-02-03 23:54:06.118816,-0.25
+922,Fashion,"Could be better, but not the worst.",2025-02-03 23:54:06.118817,-0.25
+923,Music,"Not bad, but not great either.",2025-01-15 23:54:06.118818,-0.02500000000000005
+924,Fitness,"Very disappointed, would not recommend.",2025-01-24 23:54:06.118819,-0.9750000000000001
+925,Food,"Not bad, but not great either.",2025-02-11 23:54:06.118821,-0.02500000000000005
+926,Food,I regret buying this.,2025-02-02 23:54:06.118822,0.0
+927,Music,"Could be better, but not the worst.",2025-02-12 23:54:06.118823,-0.25
+928,Movies,Best experience ever!,2025-02-03 23:54:06.118824,1.0
+929,Food,Absolutely love this!,2025-01-25 23:54:06.118825,0.625
+930,Fashion,Neutral feeling about this.,2025-02-12 23:54:06.118826,0.0
+931,Food,Neutral feeling about this.,2025-02-10 23:54:06.118827,0.0
+932,Fashion,Superb product and great service!,2025-01-15 23:54:06.118828,1.0
+933,Music,Worst purchase ever!,2025-01-25 23:54:06.118830,-1.0
+934,Fashion,"Could be better, but not the worst.",2025-01-29 23:54:06.118831,-0.25
+935,Fashion,Best experience ever!,2025-01-20 23:54:06.118832,1.0
+936,Food,Terrible experience!,2025-01-21 23:54:06.118833,-1.0
+937,Fitness,I regret buying this.,2025-02-03 23:54:06.118834,0.0
+938,Fashion,I regret buying this.,2025-02-04 23:54:06.118835,0.0
+939,Gaming,Absolutely love this!,2025-01-31 23:54:06.118836,0.625
+940,Music,"Not bad, but not great either.",2025-02-09 23:54:06.118837,-0.02500000000000005
+941,Fitness,"Amazing quality, will buy again!",2025-02-04 23:54:06.118839,0.7500000000000001
+942,Technology,An average experience.,2025-01-28 23:54:06.118840,-0.15
+943,Music,Neutral feeling about this.,2025-02-10 23:54:06.118841,0.0
+944,Fitness,Not worth the money at all!,2025-01-26 23:54:06.118842,-0.1875
+945,Food,"Not bad, but not great either.",2025-01-13 23:54:06.118844,-0.02500000000000005
+946,Food,"Could be better, but not the worst.",2025-02-02 23:54:06.118845,-0.25
+947,Technology,Worst purchase ever!,2025-01-16 23:54:06.118846,-1.0
+948,Movies,Terrible experience!,2025-02-01 23:54:06.118848,-1.0
+949,Music,Absolutely love this!,2025-01-13 23:54:06.118849,0.625
+950,Gaming,Worst purchase ever!,2025-01-21 23:54:06.118850,-1.0
+951,Movies,An average experience.,2025-02-01 23:54:06.118851,-0.15
+952,Food,Absolutely love this!,2025-02-11 23:54:06.118852,0.625
+953,Fitness,"Could be better, but not the worst.",2025-02-09 23:54:06.118853,-0.25
+954,Technology,Best experience ever!,2025-01-30 23:54:06.118854,1.0
+955,Gaming,"Not bad, but not great either.",2025-01-16 23:54:06.118855,-0.02500000000000005
+956,Fitness,"It's okay, nothing special.",2025-02-07 23:54:06.118857,0.4285714285714286
+957,Music,An average experience.,2025-02-04 23:54:06.118858,-0.15
+958,Travel,"Could be better, but not the worst.",2025-01-20 23:54:06.118859,-0.25
+959,Fitness,An average experience.,2025-02-01 23:54:06.118860,-0.15
+960,Music,Worst purchase ever!,2025-01-27 23:54:06.118861,-1.0
+961,Technology,Worst purchase ever!,2025-01-28 23:54:06.118862,-1.0
+962,Travel,Terrible experience!,2025-01-30 23:54:06.118864,-1.0
+963,Movies,I regret buying this.,2025-01-16 23:54:06.118865,0.0
+964,Travel,"Amazing quality, will buy again!",2025-02-03 23:54:06.118866,0.7500000000000001
+965,Travel,An average experience.,2025-02-12 23:54:06.118867,-0.15
+966,Movies,Not worth the money at all!,2025-02-08 23:54:06.118868,-0.1875
+967,Travel,"It's okay, nothing special.",2025-01-27 23:54:06.118869,0.4285714285714286
+968,Fitness,Superb product and great service!,2025-01-24 23:54:06.118870,1.0
+969,Food,Highly recommended!,2025-01-28 23:54:06.118871,0.2
+970,Fitness,"Not bad, but not great either.",2025-01-17 23:54:06.118872,-0.02500000000000005
+971,Fashion,"It's okay, nothing special.",2025-02-12 23:54:06.118874,0.4285714285714286
+972,Food,I regret buying this.,2025-02-12 23:54:06.118875,0.0
+973,Gaming,"Very disappointed, would not recommend.",2025-01-26 23:54:06.118876,-0.9750000000000001
+974,Travel,"Amazing quality, will buy again!",2025-01-14 23:54:06.118877,0.7500000000000001
+975,Music,I regret buying this.,2025-02-04 23:54:06.118879,0.0
+976,Technology,Worst purchase ever!,2025-01-30 23:54:06.118880,-1.0
+977,Gaming,I regret buying this.,2025-02-05 23:54:06.118881,0.0
+978,Fashion,Highly recommended!,2025-02-03 23:54:06.118882,0.2
+979,Travel,Not worth the money at all!,2025-01-17 23:54:06.118883,-0.1875
+980,Music,Not worth the money at all!,2025-01-21 23:54:06.118884,-0.1875
+981,Technology,Absolutely love this!,2025-01-21 23:54:06.118885,0.625
+982,Food,An average experience.,2025-01-26 23:54:06.118886,-0.15
+983,Movies,Not worth the money at all!,2025-02-03 23:54:06.118888,-0.1875
+984,Music,Worst purchase ever!,2025-02-01 23:54:06.118889,-1.0
+985,Fashion,"Very disappointed, would not recommend.",2025-01-27 23:54:06.118890,-0.9750000000000001
+986,Travel,Highly recommended!,2025-01-14 23:54:06.118891,0.2
+987,Food,I regret buying this.,2025-01-18 23:54:06.118892,0.0
+988,Food,"It's okay, nothing special.",2025-02-01 23:54:06.118893,0.4285714285714286
+989,Fashion,Highly recommended!,2025-02-05 23:54:06.118894,0.2
+990,Gaming,Absolutely love this!,2025-01-13 23:54:06.118896,0.625
+991,Fitness,Superb product and great service!,2025-01-23 23:54:06.118897,1.0
+992,Travel,Neutral feeling about this.,2025-01-25 23:54:06.118898,0.0
+993,Fitness,"Amazing quality, will buy again!",2025-01-19 23:54:06.118899,0.7500000000000001
+994,Travel,"Could be better, but not the worst.",2025-02-04 23:54:06.118900,-0.25
+995,Fashion,Superb product and great service!,2025-02-04 23:54:06.118901,1.0
+996,Gaming,Not worth the money at all!,2025-01-13 23:54:06.118902,-0.1875
+997,Music,"It's okay, nothing special.",2025-01-17 23:54:06.118903,0.4285714285714286
+998,Music,I regret buying this.,2025-02-07 23:54:06.118905,0.0
+999,Food,An average experience.,2025-02-07 23:54:06.118906,-0.15
+1000,Gaming,"Could be better, but not the worst.",2025-01-20 23:54:06.118907,-0.25
